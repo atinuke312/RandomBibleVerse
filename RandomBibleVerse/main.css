@@ -1,0 +1,25 @@
+body {
+    background-image: url(images/background.jpg);
+    background-repeat: repeat;
+}
+
+h1,h5{
+    margin-top: 3mm;
+    background-color: white;
+}
+
+.container {
+    text-align: center;
+}
+
+.quote-box{
+    border-style: ridge;
+    border-width: 3mm;
+    margin-bottom: 5mm;
+    background-color: white;
+}
+
+.button{
+    background-color: white;
+}
+
